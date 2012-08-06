@@ -13,7 +13,8 @@ I used this in a private Project of mine and decided to give it to the public.
 You will need to add QuartzCore Framework to your project as the OBaconView directory and you can start.
 
 ##Usage:
-Init it like any other view, set datasource (and delegate if you need it), implement the methods and you are done.
+Init it like any other view, set datasource (and delegate if you need it), implement the methods and you are done.  
+Take a look at the **sample project** if you wanna see it in detail.
 
 ##ARC
 This project uses only ARC.  
