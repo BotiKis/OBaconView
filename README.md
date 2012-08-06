@@ -19,8 +19,11 @@ Init it like any other view, set datasource (and delegate if you need it), imple
 This project uses only ARC.  
 If you are not using ARC in your project, add `-fobjc-arc` as a compiler flag for all the files of OBaconView.
 
-##The sample project Q&A
-Q: Are you serious?  
+##Q&A
+Q: Why "Bacon"?  
+A: I haven't found a name that fits so i took something i like. I'm open to any better ideas.  
+
+Q: Are you serious with the sample project?  
 A: F*** yeah, I am.  
 
 Q: Are you sorry for that?  
